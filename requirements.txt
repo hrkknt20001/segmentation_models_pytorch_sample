@@ -1,0 +1,20 @@
+opencv-python
+timm
+pandas
+matplotlib
+japanize_matplotlib
+Pillow
+jupyterlab
+jupyterlab_code_formatter
+jupyterlab-git
+lckr-jupyterlab-variableinspector
+jupyterlab_widgets
+ipywidgets
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch 
+torchvision 
+torchaudio
+
+segmentation-models-pytorch
+albumentations
